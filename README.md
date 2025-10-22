@@ -1,4 +1,4 @@
-# DevBoard X
+# Hackpad
 Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical] with 4x EC11 Rotary Encoders And 1x OLED Diplay...
 
 # FEATURES 
@@ -44,7 +44,4 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 **IDK WHY EVERYTHING IS SO EXPENSIVE IN INDIA**
 
 **Total Estimated Cost**: `$70 WITH SHIPPING CHARGES INCLUDED`
-**I Tried My best To Decrease The cost As Much As Possible , Would Be Much Cheaper If I Was In US**
-
-**Total Estimated Cost**: `$72-75 WITH SHIPPING CHARGES INCLUDED`
 **I Tried My best To Decrease The cost As Much As Possible , Would Be Much Cheaper If I Was In US**
