@@ -14,3 +14,16 @@ This was my first time working upon a Blueprint Project so i didn't knew that i 
 HOWEVER THE MAIN JOURLAING CAN BE FOUND IN MY GITHUB REPO .. ![Screenshot 2025-10-23 013758.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUzMywicHVyIjoiYmxvYl9pZCJ9fQ==--baced6280a0c51d1d6b62004079f8a9570ba148d/Screenshot%202025-10-23%20013758.png)
   
 
+## 11/8/2025 - Design, BOM And Thinking About Microcontroller !  
+
+# 22 October  , 2025
+
+This was the first day of my project , i started with the thinking and gathering  of the BOM and making a rough sketch on what i have to make it like exactly on a notebook . ![Screenshot 2025-11-08 225839](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--9154520ec4e9c7f607a881b8a82839d437dd64db/Screenshot%202025-11-08%20225839.png)
+
+Searched And Gathered Components Including Mcrocontroller , Switches , All Other Components.....
+
+Chose Pasberry Pi Pico As My Microcontroller For This Project And Planned The Design Of The MacroPAD
+
+> **TIME SPENT = ~ 2 HOURS**
+  
+
