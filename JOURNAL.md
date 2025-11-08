@@ -22,7 +22,7 @@ This was the first day of my project , i started with the thinking and gathering
 
 Searched And Gathered Components Including Mcrocontroller , Switches , All Other Components.....
 
-Chose Pasberry Pi Pico As My Microcontroller For This Project And Planned The Design Of The MacroPAD
+Chose SEEED XIAO RP2040 As My Microcontroller For This Project And Planned The Design Of The MacroPAD
 
 > **TIME SPENT = ~ 2 HOURS**
   
