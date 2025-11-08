@@ -14,7 +14,7 @@ This was my first time working upon a Blueprint Project so i didn't knew that i 
 HOWEVER THE MAIN JOURLAING CAN BE FOUND IN MY GITHUB REPO .. ![Screenshot 2025-10-23 013758.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUzMywicHVyIjoiYmxvYl9pZCJ9fQ==--baced6280a0c51d1d6b62004079f8a9570ba148d/Screenshot%202025-10-23%20013758.png)
   
 
-## 11/8/2025 - Design, BOM And Thinking About Microcontroller !  
+## 11/8/2025 10 PM - Design, BOM And Thinking About Microcontroller !  
 
 # 22 October  , 2025
 
@@ -25,5 +25,15 @@ Searched And Gathered Components Including Mcrocontroller , Switches , All Other
 Chose SEEED XIAO RP2040 As My Microcontroller For This Project And Planned The Design Of The MacroPAD
 
 > **TIME SPENT = ~ 2 HOURS**
+  
+
+## 11/8/2025 11 PM - Started The PCB Work   
+
+## 23rd October , 2025
+
+This was the first day i started actual working on this project , as per my plan , i started with the PCB work , the very first thing was to do was making and deciding the dimensions of the PCB. I took it as a normal hackkpad size and further added all the components one by one and made a clear wiring , it was not tough for me , i already had some experience so it doesn't took so long ![Screenshot 2025-10-22 231755](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--f421845dc6d095230d763d75abe8425e6594b5c7/Screenshot%202025-10-22%20231755.png)
+
+The Very dame day , i thought to finish the PCB part completely so i also moved ahead and got my hands om the routing work , i took a little help of my brother to do so and then it was not as much difficult as i expected , this was fun doing , i am i quite beginner in the routing work so i was stuck while routing on fron and back sides simultaneously , i needed some tutorials and after that it was easy . Now i was having my OCB part complete at all , scheatic and routing both were complete . ![Screenshot 2025-10-22 231843](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUxMywicHVyIjoiYmxvYl9pZCJ9fQ==--415408e8245a3d203435bff90670e8b5c5362680/Screenshot%202025-10-22%20231843.png)
+![Screenshot 2025-10-23 014556](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--5b24a8e5a0c659d8889babbf6f4fc60015ae045b/Screenshot%202025-10-23%20014556.png)![Screenshot 2025-10-22 230443](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--e1828a0ac9b59c9513886be8b1666b71e28c5a24/Screenshot%202025-10-22%20230443.png)
   
 
