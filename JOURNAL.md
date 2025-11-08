@@ -27,7 +27,7 @@ Chose SEEED XIAO RP2040 As My Microcontroller For This Project And Planned The D
 > **TIME SPENT = ~ 2 HOURS**
   
 
-## 11/8/2025 11 PM - Started The PCB Work   
+## 11/8/2025 11:14 PM - Started The PCB Work   
 
 ## 23rd October , 2025
 
@@ -35,5 +35,22 @@ This was the first day i started actual working on this project , as per my plan
 
 The Very dame day , i thought to finish the PCB part completely so i also moved ahead and got my hands om the routing work , i took a little help of my brother to do so and then it was not as much difficult as i expected , this was fun doing , i am i quite beginner in the routing work so i was stuck while routing on fron and back sides simultaneously , i needed some tutorials and after that it was easy . Now i was having my OCB part complete at all , scheatic and routing both were complete . ![Screenshot 2025-10-22 231843](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUxMywicHVyIjoiYmxvYl9pZCJ9fQ==--415408e8245a3d203435bff90670e8b5c5362680/Screenshot%202025-10-22%20231843.png)
 ![Screenshot 2025-10-23 014556](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--5b24a8e5a0c659d8889babbf6f4fc60015ae045b/Screenshot%202025-10-23%20014556.png)![Screenshot 2025-10-22 230443](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--e1828a0ac9b59c9513886be8b1666b71e28c5a24/Screenshot%202025-10-22%20230443.png)
+  
+
+## 11/8/2025 11:25 PM - The CAD WORK   
+
+## 24TH OCTOBER , 2025
+
+I thought that this will the final day of my project as i will code and do the CAD work on the same day , so first as i've already made the PCB , i thought to go with the CAD work 
+
+I am a total new guy if its CAD , i literally wasn't knowing anything , i just went on yt and searched for some CAD tutorials , hopefully with the help of a frnd , i was able to complete this . 
+
+I started with the BASE part first , the sketch part wasn't easy at all , i was stuck when i had to create holes for mounting and also during fillets . This was the most difficult part for me , both in base and in top . Still i did it with dedication and was able to complete within 5 hours. [UHMM , A BEGINNER TAKES TIME, DONT JUDGE ] .
+
+![Screenshot 2025-10-22 230610](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUxNywicHVyIjoiYmxvYl9pZCJ9fQ==--81fc0141c9c478337a56aea38c56047cfb2cb86c/Screenshot%202025-10-22%20230610.png)
+![Screenshot 2025-10-22 230935](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--9849b40be54976f2437654b03ec9db2d811d6099/Screenshot%202025-10-22%20230935.png)
+
+I was soo tired after the CAD work but a cup of coffee made me awake till 3 am , i was able to finish the code easily as i was having pre-experiences in coding already , no took any help from tutorials and did it solo . 
+![Screenshot 2025-11-08 232435](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--43360cc64a28af6534a4a078fa495f0d263b3d0d/Screenshot%202025-11-08%20232435.png)
   
 
