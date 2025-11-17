@@ -35,7 +35,7 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 | **Case & Knobs** | 1 | 3D Printed | Done By Printing Legion | Done By Printing Legion |
 | **USB Cable** | 1 | Micro-USB or USB-C | $3.32 | $2.32 |
 
-- [20 Mechanical switches ](https://www.amazon.in/dp/B073WBY7J3?psc=1&ref_=cm_sw_r_cp_ud_ct_27VYQ5KEAPVT01P58EXN) - $16.5
+- [20 Mechanical switches ]([https://www.amazon.in/dp/B073WBY7J3?psc=1&ref_=cm_sw_r_cp_ud_ct_27VYQ5KEAPVT01P58EXN](https://www.amazon.in/LOOM-TREE-Mechanical-Keyboard-Keyboards/dp/B0CC2VXN8Z/ref=sr_1_13?sr=8-13)) - $8.00
 - [1 Rotary encoder](https://robu.in/product/hongyan-ec11h-7ce15p1zd15f7-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin-360-degree/) - $0.45
 - Usb cable- $2
 - Microcontroller- $3.9
