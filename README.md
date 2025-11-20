@@ -23,6 +23,12 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 
 <img width="553" height="690" alt="Screenshot 2025-10-22 230935" src="https://github.com/user-attachments/assets/9cbbf6a4-dcf8-44b5-8ffa-f949ab1d7751" />
 
+<img width="1573" height="897" alt="Assembly 2" src="https://github.com/user-attachments/assets/8a5f8274-9081-4793-93e2-a2e2a4d51f2c" />
+
+
+<img width="1572" height="900" alt="Assembly" src="https://github.com/user-attachments/assets/720bde78-4a93-4030-8b59-8fe0d81453d6" />
+
+
 
 # 📋 Bill of Materials (BOM)
 
