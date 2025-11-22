@@ -33,20 +33,8 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 # 📋 Bill of Materials (BOM)
 
 | Component | Quantity | Specification | Unit Price | Total Price |
-|-----------|----------|---------------|------------|-------------|
-| **Microcontroller** | 1 | XIAO | $3.00 | $3.00 |
-| **Rotary Encoders** | 1 | EC11 (Vertical, 20mm shaft) | 0.87 | 3.48 |
-| **Keyswitches** | 6 | Outemu Red Cherry MX  | $2 | $15 |
 | **PCB** | 5 | Custom macropad (5x4 matrix) | $30 with shipping | $30 with shipping |
-| **Case & Knobs** | 1 | 3D Printed | Done By Printing Legion | Done By Printing Legion |
-| **USB Cable** | 1 | Micro-USB or USB-C | $3.32 | $2.32 |
 
-- [20 Mechanical switches ]([https://www.amazon.in/dp/B073WBY7J3?psc=1&ref_=cm_sw_r_cp_ud_ct_27VYQ5KEAPVT01P58EXN](https://www.amazon.in/LOOM-TREE-Mechanical-Keyboard-Keyboards/dp/B0CC2VXN8Z/ref=sr_1_13?sr=8-13)) - $8.00
-- [1 Rotary encoder](https://robu.in/product/hongyan-ec11h-7ce15p1zd15f7-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin-360-degree/) - $0.45
-- Usb cable- $2
-- Microcontroller- $3.9
--  
-- 
 
 ## JLCPCB
 
