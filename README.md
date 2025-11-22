@@ -50,7 +50,8 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 
 ## JLCPCB
 
-<img width="1130" height="501" alt="image" src="https://github.com/user-attachments/assets/40063833-d636-4371-a4fd-7461f2954838" />
+![5](https://github.com/user-attachments/assets/90b1046c-1cc5-43e4-819e-d2a9c2d9ca11)
+
 
 
 
