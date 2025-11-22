@@ -33,7 +33,7 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 # 📋 Bill of Materials (BOM)
 
 | Component | Quantity | Specification | Unit Price | Total Price |
-| **PCB** | 5 | Custom macropad (5x4 matrix) | $30 with shipping | $30 with shipping |
+| **PCB** | 5 | Custom macropad (5x4 matrix) | $30 with shipping | $30 with shipping 
 
 
 ## JLCPCB
