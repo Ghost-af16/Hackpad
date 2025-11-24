@@ -34,7 +34,7 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 
 | Component | Quantity | Specification | Unit Price | Total Price |
 
-| **PCB** | 5 | Custom macropad (5x4 matrix) | $32 with shipping | $32 with shipping 
+| **PCB** | 5 | Custom macropad (5x4 matrix) | $6 with shipping | $6 with shipping 
 
 
 ## JLCPCB
@@ -46,5 +46,5 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 
 **IDK WHY EVERYTHING IS SO EXPENSIVE IN INDIA**
 
-**Total Estimated Cost**: `$70 WITH SHIPPING CHARGES INCLUDED`
-**I Tried My best To Decrease The cost As Much As Possible , Would Be Much Cheaper If I Was In US**
+**Total Estimated Cost**: `$6 WITH SHIPPING CHARGES INCLUDED`
+
