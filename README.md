@@ -46,6 +46,6 @@ Yo Boizzz , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical
 
 **IDK WHY EVERYTHING IS SO EXPENSIVE IN INDIA**
 
-**Total Estimated Cost**: `$6 WITH SHIPPING CHARGES INCLUDED`
+**Total Estimated Cost**: `$5 WITH SHIPPING CHARGES INCLUDED`
 I'm only asking for pcb cost as you guys said.
 
