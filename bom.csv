@@ -1,1 +1,3 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+| Component | Quantity | Specification | Unit Price | Total Price |
+
+| **PCB** | 5 | Custom macropad (5x4 matrix) | $7 with shipping | $7 with shipping |
